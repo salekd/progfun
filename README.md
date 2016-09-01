@@ -1,1 +1,1 @@
-# progfun1
+# Functional programming in Scala
